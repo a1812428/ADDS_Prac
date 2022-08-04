@@ -9,6 +9,6 @@ Human::Human()
 
 char Human::makeMove()
 {
-    cin >> this->move;
+    // cin >> this->move;
     return this->move;
 }
