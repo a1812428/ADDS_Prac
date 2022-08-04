@@ -4,9 +4,11 @@ using namespace std;
 
 Human::Human()
 {
+    cin >> this->move;
 }
 
 char Human::makeMove()
 {
-    return this->move;
+    cin >> this->move;
+    return this->move;`
 }
