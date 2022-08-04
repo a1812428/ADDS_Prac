@@ -10,5 +10,5 @@ Human::Human()
 char Human::makeMove()
 {
     cin >> this->move;
-    return this->move;`
+    return this->move;
 }
